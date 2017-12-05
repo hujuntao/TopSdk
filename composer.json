@@ -1,9 +1,9 @@
 {
-    "name": "TopSdk",
+    "name": "topsdk",
     "description": "Taobao top client(SDK) for thinkphp 5.1",
     "type": "library",
     "license": "MIT",
-	"keywords": ["taobao", "thinkphp", "sdk", "api","TopSdk"],
+	"keywords": ["taobao", "thinkphp", "sdk", "api","topsdk"],
     "homepage": "https://github.com/hujuntao/TopSdk",
     "authors": [
         {
@@ -15,7 +15,7 @@
         "php": ">=5.3.0"
     },
     "autoload": {
-        "psr-4": {"TopSdk\\": "src/"},
+        "psr-4": {"topsdk\\": "src/"},
         "files": ["src/TopSdk.php"]
     }
 }
