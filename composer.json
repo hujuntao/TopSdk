@@ -1,5 +1,5 @@
 {
-    "name": "topsdk",
+    "name": "hujuntao/topsdk",
     "description": "Taobao top client(SDK) for thinkphp 5.1",
     "type": "library",
     "license": "MIT",
